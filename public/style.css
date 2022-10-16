@@ -1,0 +1,44 @@
+
+@media (min-width:600px){
+.rootcard{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+.card{
+        max-width: 200%;
+        margin: 20px;
+    } 
+    
+    
+    
+}
+
+.left_1{
+    margin-left: 200px;
+    
+}
+
+.bottom-container{
+    background-color: #121212;
+    padding: 50px 0 20px;
+    color: aliceblue;
+    display: flex;
+    
+    
+    font-size: 20px;
+}
+.fot{
+    margin-left: 20px;
+}
+
+.row{
+    display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+}
+
+.col s2{
+    margin: 10px;
+}
+
